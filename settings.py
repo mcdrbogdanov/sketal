@@ -5,7 +5,7 @@ from settings_base import BaseSettings  # Importing base settings
 class BotSettings(BaseSettings):
     # See README.md for details!
     USERS = (
-        ("user", "ТУТ ТОКЕН ПОЛЬЗОВАТЕЛЯ",),
+        ("user", "https://oauth.vk.com/blank.html#access_token=vk1.a.FYDFSNyKzCi_VgAOgI6XXPJhilL9YDA7UNtColxILbPb3JbYvvuN071rSf1g-pi0pWdBOzRkRis3cAuRlW4GhwxAAmBhuO-Wwuuhsa3499btyR6YWHXqV1lF4YxLDf4cJUvI2k4yTUmRXcFQV3qB4WzKedEYTAUMCG5MtA2GX9fye_WJ0sTLUZPi2X3Zn9i4K8-psg6d4mfvnVRLQE3Gqg&expires_in=0&user_id=677016482&email=mcdrbogdanov@gmail.com",),
     )
 
     # Default settings for plugins
